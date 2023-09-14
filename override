@@ -1,0 +1,18 @@
+div.assignment-class-1, div.assignment-class-1 a,
+li.assignment-class-1, li.assignment-class-1 a
+{
+background: #1E88E5 !important;
+Color:blue !important;
+}
+div.assignment-class-2, div.assignment-class-2 a,
+li.assignment-class-2, li.assignment-class-2 a
+{
+background: #004D40 !important;
+Color:green !important;
+}
+div.assignment-class-4, div.assignment-class-4 a,
+li.assignment-class-4, li.assignment-class-4 a
+{
+background: #D81B60  !important;
+color:Pink !important;
+}
